@@ -61,3 +61,7 @@ htmlcov/
 
 # Logs
 *.log
+
+# Local Project Explanations & Documentation (Private)
+CODE_EXPLANATION.md
+*explanation*.md
